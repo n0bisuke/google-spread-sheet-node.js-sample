@@ -1,3 +1,4 @@
 node_modules
 client_secret.json
 sheets.googleapis.com-nodejs-quickstart.json
+.DS_Store
